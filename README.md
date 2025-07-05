@@ -15,3 +15,16 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 from prophet import Prophet
+
+## 📈 Steps Involved
+
+### 1. 🗂️ Data Loading & Inspection
+- Loaded the dataset using `pandas.read_csv()`
+- Checked data structure with `data.head()` and `data.info()`
+
+### 2. 🔍 Exploratory Data Analysis (EDA)
+- Visualized avocado prices over time using `matplotlib`
+- Identified trends, fluctuations, and potential seasonality
+
+
+

@@ -26,5 +26,30 @@ from prophet import Prophet
 - Visualized avocado prices over time using `matplotlib`
 - Identified trends, fluctuations, and potential seasonality
 
+### 📌 Workflow
+
+- **Load & Explore Data**
+- **Preprocessing**
+- **Model Building with Prophet**
+- **Forecasting Future Prices**
+- **Visualization**
+
+---
+
+### 📈 Output
+
+- Forecasted avocado prices for a specified future period.
+- Trend components (yearly, weekly seasonality, etc.).
+
+---
+
+## 🚗 Case Study 2: Forecasting Miles Traveled (with LSTM)
+
+### 📁 Dataset
+
+- **Source**: [Kaggle - Miles Travelled](https://www.kaggle.com/datasets/baghern/miles-dataset)
+- **Description**: Monthly miles driven in the US — good for modeling long-term travel trends.
+
+---
 
 
